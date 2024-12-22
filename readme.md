@@ -26,4 +26,4 @@
 	<li> CLI scraping tool is underdevelopment only beta version  is available now </li>
 </ul>
 ----------------------------------------------------------------------------------------
-<h1>HAPPY CODING</h1>
+<h1>Thank You</h1>
